@@ -71,3 +71,4 @@ console.log(set.has(1));
 console.log(set.size);
 
 let num = "123";
+let convertedNum = Number(num);
