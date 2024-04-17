@@ -72,3 +72,4 @@ console.log(set.size);
 
 let num = "123";
 let convertedNum = Number(num);
+console.log(concertedNum);
