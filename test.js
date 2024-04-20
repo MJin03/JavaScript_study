@@ -75,3 +75,4 @@ let convertedNum = Number(num);
 console.log(concertedNum);
 
 let bool = true;
+let result = num * 1;
