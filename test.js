@@ -60,3 +60,4 @@ let regex = /ab+c/;
 console.log(regex.test('abc'));
 console.log(regex.test('ac'));
 
+let map = new Map();
