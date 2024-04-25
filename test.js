@@ -63,3 +63,5 @@ console.log(regex.test('ac'));
 let map = new Map();
 map.set('key', 'value');
 console.log(map.get('key'));
+
+let set = new Set();
