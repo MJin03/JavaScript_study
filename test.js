@@ -66,3 +66,4 @@ console.log(map.get('key'));
 
 let set = new Set();
 set.add(1);
+set.add(2);
