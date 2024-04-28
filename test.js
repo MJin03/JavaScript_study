@@ -51,3 +51,4 @@ let divide = (a,b) => a/b;
 console.log(divide(6,3));
 
 let now = new Date();
+console.log(now);
