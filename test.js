@@ -52,3 +52,5 @@ console.log(divide(6,3));
 
 let now = new Date();
 console.log(now);
+
+let specificDate = new Date('2024-01-01');
