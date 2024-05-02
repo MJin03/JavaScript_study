@@ -54,3 +54,4 @@ let now = new Date();
 console.log(now);
 
 let specificDate = new Date('2024-01-01');
+console.log(specificData);
