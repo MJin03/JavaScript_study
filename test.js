@@ -45,6 +45,7 @@ console.log(add(2,3));
 let multiply = function(a,b) {
     return a*b;
 }
+console.log(multiply(2,3));
 
 let divide = (a,b) => a/b;
 
