@@ -44,3 +44,5 @@ function add(a,b) {
 let multiply = function(a,b) {
     return a*b;
 }
+
+let divide = (a,b) => a/b;
