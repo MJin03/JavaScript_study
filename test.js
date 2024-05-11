@@ -36,3 +36,7 @@ console.log(numbers);
 function add(a,b) {
     return a+b;
 }
+
+let multiply = function(a,b) {
+    return a*b;
+}
