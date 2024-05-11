@@ -28,3 +28,6 @@ let person ={
         console.log("Hello," + this.name);
     }
 };
+
+console.log(person.name);
+person.greet();
