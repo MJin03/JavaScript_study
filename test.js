@@ -16,3 +16,5 @@ let positiveInfinity = Infinity;
 let negativeInfinity = Infinity;
 
 let bigIntNum = 123456789012345678901234567890n;
+
+let singleQuoteString = 'Hello';
