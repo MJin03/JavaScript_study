@@ -13,3 +13,4 @@ let intNum = 42;
 let floatNum = 3.14
 let notANumber = NaN;
 let positiveInfinity = Infinity;
+let negativeInfinity = Infinity;
