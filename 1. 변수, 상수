@@ -4,6 +4,18 @@
 - typeof 연산자를 통해 변수의 현재 타입을 확인 할 수 있다.
   >> console.log(typeof 변수이름); : 변수 타입 출력
   >>> console.log(); : 출력 형식
+
+let user = 'John',
+  age = 25,
+  message = 'Hello';
+
+또는
+
+let user = 'John'
+  , age = 25
+  , message = 'Hello';
+
+방식으로도 작성 가능
   
 - let 변수이름 : 변수 선언
   >> let num : 변수 이름이 num인 변수 선언
