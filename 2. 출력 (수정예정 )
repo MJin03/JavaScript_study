@@ -1,6 +1,7 @@
 출력 방법
 -> console.log() // 줄바꿈(개행문자) 포함 출력 (OUTPUT을 개행문자를 이용해서 한 줄씩 출력할 때 사용.)
 -> process.stdout.write()  // 줄바꿈(개행문자) 포함X 출력 (OUTPUT을 줄바꿈 없이 한 줄 안에 출력할 때 사용.)
+   >> "stringstringstring"
 -> document.getElementById()  // 자바스크립트로 HTML 요소에 접근할 때 사용 (HTML요소의 id속속을 찾아서 innerHTML 속성을 통해 컨텐츠의 내용을 적용시켜줌.)
 -> document.write()  // 자바스크립트 코드를 이용해 바로 화면에 출력하고 싶을 때 사용.
 -> window.alert() // 주로 화면에 경고창을 띄울 때 사용하는 방법으로 다른 코드들 보다 가장 먼저 실행한다. (일반적 웹 브라우저는 위에서 부터 순차적으로 읽어 내려가는데, 경고창을 띄우는 windo.alert() 메서드가 문서 안에 있으면 먼저 화면에 나타내고 이후에 다른 HTML 요소들을 화면에 출력한다.)
