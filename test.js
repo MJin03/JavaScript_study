@@ -20,3 +20,10 @@ let bigIntNum = 123456789012345678901234567890n;
 let singleQuoteString = 'Hello';
 let doubleQuoteString = "World";
 let templateLiteral = "Hello, World";
+
+let person = {
+    name: "Alice",
+    age: function() {
+        console.log("Hello, " + this.name);
+    }
+};
